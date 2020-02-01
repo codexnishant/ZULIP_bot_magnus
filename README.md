@@ -1,1 +1,1 @@
-# ZULIP_bot_magnus
+# ZULIP_Bot_Magnus
